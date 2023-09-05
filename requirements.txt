@@ -1,3 +1,4 @@
+setuptools>=68.1.2
 azure-keyvault>=0.3.6
 click==6.7
 Flask==1.0.2
