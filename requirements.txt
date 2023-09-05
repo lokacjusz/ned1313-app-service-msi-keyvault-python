@@ -1,4 +1,5 @@
-azure-keyvault>=0.3.6
+azure-keyvault>=4.7.0
+setuptools==56.0.0
 click==6.7
 Flask==1.0.2
 itsdangerous==0.24
