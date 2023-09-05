@@ -1,4 +1,4 @@
-azure-keyvault>=4.2.0
+azure-keyvault==4.1.0
 setuptools==56.0.0
 click==6.7
 Flask==1.0.2
